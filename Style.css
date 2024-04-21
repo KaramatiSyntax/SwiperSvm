@@ -291,3 +291,13 @@ a.open:focus ~ .chapter{
   opacity: 1;
   z-index: 51;
 }
+footer{
+  color: grey;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 7px;
+  font-size: 12px;
+}
